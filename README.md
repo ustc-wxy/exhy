@@ -3,5 +3,4 @@ A simple server consists of Logger module、Config、Thread module、Fiber modul
 # Get Start
 sudo make
 # Run example
-cd ./exhy/test
-./TestFileName
+./exhy/test/TestFileName
